@@ -32,7 +32,7 @@ http://localhost:8080
 
 This project uses Node.js. Make sure you have Node.js installed on your machine.
 
-- live-server: to simulate an HTTP server in a local environment.
+- vite: to simulate an HTTP server in a local environment.
 
 ## How to contribute
 
