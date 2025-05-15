@@ -1,12 +1,49 @@
-# React + Vite
+# Simple Counter Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This small React component provides a basic counter with increment and decrement buttons. It's a straightforward example of using React's `useState` hook to manage component state and handle user interactions.
 
-Currently, two official plugins are available:
+## Preview
+![Preview](src/assets/image.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Getting Started
+1. Clone this project:
+```
+git clone https://github.com/ranandasatria/fgo24-react-basic
+```
+
+2. Install the depedencies:
+```
+npm install
+```
+
+3. Run the project:
+```
+npm run dev
+```
+
+4. The project will be runnning at:
+``` 
+http://localhost:8080
+```
+
+## Depedencies
+
+This project uses Node.js. Make sure you have Node.js installed on your machine.
+
+- live-server: to simulate an HTTP server in a local environment.
+
+## How to contribute
+
+Please open a Pull Request (PR) to contribute to this project.
+Your PR will be reviewed and merged if necessary.
+
+## License
+
+This project following MIT License.
+
+## Copyright
+&copy; 2025 Kodacademy
+
+
